@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\Assignment26.Tests\\Assignment26.Tests.csproj": {}
+    "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26.Tests\\Assignment26.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\Assignment26.Tests\\Assignment26.Tests.csproj": {
+    "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26.Tests\\Assignment26.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\Assignment26.Tests\\Assignment26.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26.Tests\\Assignment26.Tests.csproj",
         "projectName": "Assignment26.Tests",
-        "projectPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\Assignment26.Tests\\Assignment26.Tests.csproj",
+        "projectPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26.Tests\\Assignment26.Tests.csproj",
         "packagesPath": "C:\\Users\\dsspr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\Assignment26.Tests\\obj\\",
+        "outputPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dsspr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
-                "projectPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj"
+              "C:\\Users\\dsspr\\Repositories\\ci-cd\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
+                "projectPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
+    "C:\\Users\\dsspr\\Repositories\\ci-cd\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj",
+        "projectUniqueName": "C:\\Users\\dsspr\\Repositories\\ci-cd\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj",
         "projectName": "ValidateTheNameModelBinding",
-        "projectPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj",
+        "projectPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj",
         "packagesPath": "C:\\Users\\dsspr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\Assignment26\\Assignment26-solution\\InvarianceDTOandModel\\obj\\",
+        "outputPath": "C:\\Users\\dsspr\\Repositories\\ci-cd\\InvarianceDTOandModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dsspr\\AppData\\Roaming\\NuGet\\NuGet.Config"
