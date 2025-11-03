@@ -22,9 +22,9 @@ jobs:
 
   build:
     runs-on: windows-latest
+    needs: test
     permissions:
       contents: read #This is required for actions/checkout
-    needs: test
     
     steps:
       - uses: actions/checkout@v4
