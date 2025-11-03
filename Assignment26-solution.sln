@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTheNameModelBinding
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment26.Tests", "Assignment26.Tests\Assignment26.Tests.csproj", "{427F213A-6915-460E-B88A-8CE7C9AFD915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection", "SqlInjection\SqlInjection.csproj", "{1797C3F9-593B-4622-B3EC-A7A6DC50E529}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{427F213A-6915-460E-B88A-8CE7C9AFD915}.Release|x64.Build.0 = Release|Any CPU
 		{427F213A-6915-460E-B88A-8CE7C9AFD915}.Release|x86.ActiveCfg = Release|Any CPU
 		{427F213A-6915-460E-B88A-8CE7C9AFD915}.Release|x86.Build.0 = Release|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Debug|x64.Build.0 = Debug|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Debug|x86.Build.0 = Debug|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Release|x64.ActiveCfg = Release|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Release|x64.Build.0 = Release|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Release|x86.ActiveCfg = Release|Any CPU
+		{1797C3F9-593B-4622-B3EC-A7A6DC50E529}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
